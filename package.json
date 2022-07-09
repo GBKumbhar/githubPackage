@@ -16,4 +16,7 @@
     "url": "https://github.com/GBKumbhar/githubPackage/issues"
   },
   "homepage": "https://github.com/GBKumbhar/githubPackage#readme"
+  "publishConfig": {
+   "@GBKumbhar:registry": "https://npm.pkg.github.com"
+ }
 }
