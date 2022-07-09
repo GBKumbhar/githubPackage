@@ -1,0 +1,19 @@
+{
+  "name": "@gbkumbhar/githubpackage",
+  "version": "1.0.0",
+  "description": "test github packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "exi 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GBKumbhar/githubPackage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GBKumbhar/githubPackage/issues"
+  },
+  "homepage": "https://github.com/GBKumbhar/githubPackage#readme"
+}
